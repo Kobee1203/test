@@ -1,4 +1,4 @@
-# test repository !
+# TEST REPOSITORY
 
 ## Title 1
 
