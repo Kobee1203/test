@@ -1,12 +1,7 @@
-<<<<<<< main
 # Exemples de Projets Multi-Langages
-=======
-# Test Repository
->>>>>>> origin/main
 
 Ce repository contient 5 exemples de projets prêts à l'emploi couvrant différents écosystèmes et technologies :
 
-<<<<<<< main
 ---
 
 ## 📁 Vue d'ensemble des projets
@@ -65,8 +60,3 @@ cd python-app
 python3 src/main.py   # Lancer l'application console
 python3 -m unittest discover -s tests -p "test_*.py"  # Exécuter les tests
 ```
-=======
-This is the first section.
-
-## Title 2
->>>>>>> origin/main
