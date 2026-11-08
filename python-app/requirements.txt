@@ -1,0 +1,2 @@
+# Optionnel : pytest pour exécuter les tests avec un runner moderne
+pytest>=8.0.0
