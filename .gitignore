@@ -167,3 +167,8 @@ venv/
 *.so
 *.dylib
 app
+/.DS_Store
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/test.iml
+/.idea/vcs.xml
